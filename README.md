@@ -1,6 +1,6 @@
 # My Calculator
 
-A simple calculator built with [language/technology you're using].
+A simple calculator built with [HTML,CSS & JAVASCRIPT].
 
 ## Features
 - Addition
@@ -10,3 +10,8 @@ A simple calculator built with [language/technology you're using].
 
 ## Installation
 Instructions to install or run the calculator.
+
+1. CLICK ON CODE
+2. DOWNLOAD THE ".ZIP" FILE
+3. EXTRACT THE FILE
+4. ENJOY 
